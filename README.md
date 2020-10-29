@@ -6,6 +6,6 @@
 
 [![fireganqQ's github stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=cobalt&count_private=true)](https://github.com/fireganqQ)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fireganqQ&layout=compact&theme=cobalt)](https://github.com/fireganqQ)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eren&layout=compact&theme=cobalt)](https://github.com/fireganqQ)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ar5xr05io7p2lrvlzz8cgpz7f&cover_image=false)](https://github.com/fireganqQ)
