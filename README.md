@@ -22,8 +22,7 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="https://github.com/fireganqQ" width="350" />](https://github.com/fireganqQ)
 </details>
-<details>
+<!--<details>
   <summary>📊 This week I spent my time on</summary>
-
-[![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=fireganqQ&hide_title=true&hide_border=true&langs_count=1)](https://github.com/fireganqQ)
-</details>
+  [![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=fireganqQ&hide_title=true&hide_border=true&langs_count=1)](https://github.com/fireganqQ)
+</details>-->
