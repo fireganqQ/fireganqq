@@ -14,4 +14,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fireganqq&layout=compact&theme=radical)](https://github.com/fireganqQ)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ar5xr05io7p2lrvlzz8cgpz7f&cover_image=false&logoColor=radical)](https://github.com/fireganqQ)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="https://github.com/fireganqQ" width="350" />](https://github.com/fireganqQ)
