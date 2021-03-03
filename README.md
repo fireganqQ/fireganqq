@@ -4,6 +4,10 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-quare&labelColor=dark_blue&logo=Telegram&logoColor=dark_blue&link=t.me/fireganqQ)](https://t.me/fireganqQ) 
 [![Botlarım Badge](https://img.shields.io/badge/-Telegram_Botlarım-blue?style=flat-quare&labelColor=dark_blue&logo=Telegram&logoColor=dark_blue&link=t.me/fireqanQBotlari/33)](https://t.me/fireqanQBotlari/33)
 
+<a href="https://github.com/fireganqQ/fireganqq">
+  <img align="right" src="https://user-images.githubusercontent.com/6764957/101532175-1cda1580-39cf-11eb-92fc-8466f97122fc.png" width=200 />
+</a>
+
 <details>
   <summary>:zap: </summary>
   
