@@ -25,5 +25,5 @@
 <details>
   <summary>📊 This week I spent my time on</summary>
 
-![[Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=https://github.com/fireganqQ&hide_title=true&hide_border=true&langs_count=5)](https://github.com/fireganqQ)
+[![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=https://github.com/fireganqQ&hide_title=true&hide_border=true&langs_count=5)](https://github.com/fireganqQ)
 </details>
