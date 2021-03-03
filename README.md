@@ -5,8 +5,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/fireganqQ&count_bg=%231EE510&title_bg=%23555555&icon=&icon_color=%23931414&title=account+views&edge_flat=true)](https://github.com/fireganqQ)
 
 
-[![fireganqQ's github stats](https://github-readme-stats.vercel.app/api?username=fireganqq&show_icons=false&theme=cobalt&count_private=true)](https://github.com/fireganqQ)
+[![fireganqQ's github stats](https://github-readme-stats.vercel.app/api?username=fireganqq&show_icons=true&theme=cobalt&count_private=true)](https://github.com/fireganqQ)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fireganqq&layout=compact&theme=cobalt)](https://github.com/fireganqQ)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ar5xr05io7p2lrvlzz8cgpz7f&cover_image=true)](https://github.com/fireganqQ)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ar5xr05io7p2lrvlzz8cgpz7f&cover_image=false)](https://github.com/fireganqQ)
