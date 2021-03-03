@@ -5,6 +5,7 @@
 [![Botlarım Badge](https://img.shields.io/badge/-Telegram_Botlarım-blue?style=flat-quare&labelColor=dark_blue&logo=Telegram&logoColor=dark_blue&link=t.me/fireqanQBotlari/33)](https://t.me/fireqanQBotlari/33)
 
 <details>
+  <summary>:zap: </summary>
   
 [<img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" url="https://github.com/fireganqQ" width="495px">](https://github.com/fireganqQ)
 
@@ -13,6 +14,7 @@
 </details>
 
 <details>
+  <summary>:zap: GitHub Stats</summary>
   
 [![fireganqQ's github stats](https://github-readme-stats.vercel.app/api?username=fireganqq&show_icons=true&theme=radical&count_private=true)](https://github.com/fireganqQ)
 
