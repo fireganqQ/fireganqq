@@ -26,7 +26,7 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="https://github.com/fireganqQ" width="350" />](https://github.com/fireganqQ)
 </details>
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Profilime Bakmışken Takip Etsen Negüzel Olur?? :)
+##[<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">](https://github.com/fireganqQ) **Profilime Bakmışken Takip Etsen Negüzel Olur?? :)**
 __:)__
 <!--<details>
   <summary>📊 This week I spent my time on</summary>
